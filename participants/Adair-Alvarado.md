@@ -1,9 +1,9 @@
 ---
-name: Tu Nombre Completo
-career: Tu Carrera (ej. Ingeniería de Software)
-semester: Tu semestre (ej. 5to semestre)
-description: Escribe una breve descripción sobre ti en 2-3 oraciones. ¿Qué te apasiona? ¿Cuál es tu meta profesional?
-hobbies: Tus hobbies separados por comas (ej. Programar, Leer, Gaming)
+name: Adair Alvarado
+career: Licenciatura en ingenieria de sistemas y computación
+semester: 5 año
+description: Me gusta resolver problemas y trabajar con tecnologia. mi meta es ser cientifico de datos.
+hobbies: Programar, Leer, Gaming.
 image: https://url-de-tu-foto.jpg
-github: tu-usuario-de-github
+github: adalva12-cyber
 ---
