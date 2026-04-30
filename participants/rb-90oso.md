@@ -4,6 +4,6 @@ career: Ingenieria en Sistemas y Computacopm
 semester: 9no
 description: Estudiante y entusiasta de la tecnología, amigo de Juan el Negro
 hobbies: Leer, caminar, escuchar música
-image: ![alt text](image.png)
+image: https://avatars.githubusercontent.com/u/583231?v=4
 github: https://github.com/90oso
 ---
